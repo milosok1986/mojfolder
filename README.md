@@ -1,2 +1,0 @@
-# mojfolder
-moj prvi folder
